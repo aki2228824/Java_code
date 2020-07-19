@@ -6,7 +6,7 @@ public abstract class TangibleAsset11_practice extends Asset11_practice implemen
         super(name, price)
         this.color = color;
     }
-    public String getNameColor() {
+    public String getColor() {
         return this.color;
     }
     public double getWeight() {
